@@ -1,6 +1,6 @@
-# molecular-future price chart 
+# power-ledger price chart 
 
-molecular-future price chart (matplotlib, python)
+power-ledger price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
