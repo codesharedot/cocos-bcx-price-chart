@@ -1,6 +1,6 @@
-# aion price chart 
+# crpt price chart 
 
-aion price chart (matplotlib, python)
+crpt price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
