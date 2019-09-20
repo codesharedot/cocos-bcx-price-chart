@@ -1,6 +1,6 @@
-# ignis price chart 
+# loom-network price chart 
 
-ignis price chart (matplotlib, python)
+loom-network price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
