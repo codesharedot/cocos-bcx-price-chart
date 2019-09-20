@@ -1,6 +1,6 @@
-# bhp-coin price chart 
+# ignis price chart 
 
-bhp-coin price chart (matplotlib, python)
+ignis price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
