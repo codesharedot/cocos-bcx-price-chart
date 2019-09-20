@@ -1,6 +1,6 @@
-# tomochain price chart 
+# molecular-future price chart 
 
-tomochain price chart (matplotlib, python)
+molecular-future price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
