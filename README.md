@@ -1,6 +1,6 @@
-# power-ledger price chart 
+# bhp-coin price chart 
 
-power-ledger price chart (matplotlib, python)
+bhp-coin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
