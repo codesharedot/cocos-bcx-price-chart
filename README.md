@@ -1,6 +1,6 @@
-# orbs price chart 
+# aion price chart 
 
-orbs price chart (matplotlib, python)
+aion price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
