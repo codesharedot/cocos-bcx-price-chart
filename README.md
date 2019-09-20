@@ -1,6 +1,6 @@
-# santiment price chart 
+# orbs price chart 
 
-santiment price chart (matplotlib, python)
+orbs price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
