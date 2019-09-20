@@ -1,6 +1,6 @@
-# crpt price chart 
+# tomochain price chart 
 
-crpt price chart (matplotlib, python)
+tomochain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
