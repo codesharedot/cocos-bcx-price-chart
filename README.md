@@ -1,6 +1,6 @@
-# credits price chart 
+# lina price chart 
 
-credits price chart (matplotlib, python)
+lina price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
