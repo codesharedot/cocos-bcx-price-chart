@@ -1,6 +1,6 @@
-# c20 price chart 
+# bibox-token price chart 
 
-c20 price chart (matplotlib, python)
+bibox-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
