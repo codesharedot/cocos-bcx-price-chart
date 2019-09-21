@@ -1,6 +1,6 @@
-# telcoin price chart 
+# harmony price chart 
 
-telcoin price chart (matplotlib, python)
+harmony price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
