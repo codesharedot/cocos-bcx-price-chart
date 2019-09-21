@@ -1,6 +1,6 @@
-# funfair price chart 
+# populous price chart 
 
-funfair price chart (matplotlib, python)
+populous price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
