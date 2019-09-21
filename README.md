@@ -1,6 +1,6 @@
-# harmony price chart 
+# seele price chart 
 
-harmony price chart (matplotlib, python)
+seele price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
