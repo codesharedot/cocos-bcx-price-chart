@@ -1,6 +1,6 @@
-# populous price chart 
+# telcoin price chart 
 
-populous price chart (matplotlib, python)
+telcoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
