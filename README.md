@@ -1,6 +1,6 @@
-# hyperion price chart 
+# valor-token price chart 
 
-hyperion price chart (matplotlib, python)
+valor-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
