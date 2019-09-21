@@ -1,6 +1,6 @@
-# dxchain-token price chart 
+# c20 price chart 
 
-dxchain-token price chart (matplotlib, python)
+c20 price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
