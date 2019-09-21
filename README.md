@@ -1,6 +1,6 @@
-# lina price chart 
+# storj price chart 
 
-lina price chart (matplotlib, python)
+storj price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
