@@ -1,6 +1,6 @@
-# storj price chart 
+# dxchain-token price chart 
 
-storj price chart (matplotlib, python)
+dxchain-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
