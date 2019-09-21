@@ -1,6 +1,6 @@
-# valor-token price chart 
+# blackmoon price chart 
 
-valor-token price chart (matplotlib, python)
+blackmoon price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
