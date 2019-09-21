@@ -1,6 +1,6 @@
-# loom-network price chart 
+# credits price chart 
 
-loom-network price chart (matplotlib, python)
+credits price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
