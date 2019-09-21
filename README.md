@@ -1,6 +1,6 @@
-# bibox-token price chart 
+# hyperion price chart 
 
-bibox-token price chart (matplotlib, python)
+hyperion price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
