@@ -1,6 +1,6 @@
-# seele price chart 
+# cocos-bcx price chart 
 
-seele price chart (matplotlib, python)
+cocos-bcx price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
