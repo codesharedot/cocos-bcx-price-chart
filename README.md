@@ -1,6 +1,6 @@
-# blackmoon price chart 
+# funfair price chart 
 
-blackmoon price chart (matplotlib, python)
+funfair price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
